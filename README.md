@@ -1,4 +1,4 @@
-### Hi there I'm Ömer Umutlu 👋
+### Hi there I'm Ömer 👋
 
 I am skilled in Asp.Net Core, Asp.Net MVC and Java programming languages.
 
