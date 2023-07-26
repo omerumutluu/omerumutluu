@@ -1,9 +1,9 @@
 ### Hi there I'm Ömer 👋
 
-I am skilled in Asp.Net Core, Asp.Net MVC and Java programming languages.
+I am skilled in .Net Core, Web API's and Asp.Net MVC.
 
-- I can use ReactJs, C++, Python programming languages too as a beginner.
+- I can use C# and JavaScript programming languages.
 
-- Also I can use HTML, CSS and basically JavaScript too.
-- Technologies I can use: Entity Framework, Spring Boot, Microsoft Sql Server, PostgreSql, Bootstrap
+- Also I can use HTML, CSS and JavaScript frameworks like Vue.js too.
+- Technologies I can use: Vue.Js, Entity Framework, Microsoft Sql Server, MongoDb, PostgreSql, Bootstrap, TailwindCSS
 - How to reach me: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerumutluu/)
